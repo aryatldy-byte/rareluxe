@@ -1,0 +1,12 @@
+{
+  "appId": "com.rareluxe.app",
+  "appName": "RareLuxe",
+  "webDir": "dist",
+  "server": {
+    "url": "https://rare-luxe.vercel.app/",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
